@@ -2,7 +2,7 @@
 authors = ["Adam T <tradam017@gmail.com>"]
 channels = ["conda-forge"]
 name = "data_science"
-platforms = ["linux-64"]
+platforms = ["linux-64", "osx-arm64"]
 version = "0.1.0"
 
 [tasks]
